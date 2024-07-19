@@ -16,6 +16,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Collection of LeetCode questions.
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ompatel22/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
