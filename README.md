@@ -7,6 +7,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ompatel22/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions.
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -25,6 +27,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -44,4 +47,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
