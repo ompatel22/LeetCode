@@ -51,4 +51,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ompatel22/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
