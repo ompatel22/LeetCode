@@ -8,6 +8,7 @@ Collection of LeetCode questions.
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ompatel22/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Prefix Sum
 |  |
 | ------- |
