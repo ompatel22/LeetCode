@@ -17,6 +17,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions.
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Sorting
 |  |
@@ -60,4 +62,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ompatel22/LeetCode/tree/master/0182-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
