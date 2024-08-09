@@ -17,6 +17,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions.
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions.
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Sorting
@@ -66,4 +69,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
