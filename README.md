@@ -23,6 +23,7 @@ Collection of LeetCode questions.
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Prefix Sum
@@ -48,6 +49,7 @@ Collection of LeetCode questions.
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ompatel22/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions.
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Sorting
 |  |
 | ------- |
@@ -81,8 +84,13 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
