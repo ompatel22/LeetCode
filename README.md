@@ -18,6 +18,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -107,4 +108,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
