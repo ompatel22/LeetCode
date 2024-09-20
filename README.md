@@ -6,6 +6,7 @@ Collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ompatel22/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions.
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 ## Database
@@ -110,6 +113,7 @@ Collection of LeetCode questions.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 ## Dynamic Programming
 |  |
