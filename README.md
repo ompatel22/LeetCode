@@ -19,6 +19,7 @@ Collection of LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
