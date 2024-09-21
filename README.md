@@ -24,6 +24,7 @@ Collection of LeetCode questions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -38,9 +39,11 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
