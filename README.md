@@ -19,6 +19,7 @@ Collection of LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ompatel22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ompatel22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 ## Dynamic Programming
@@ -147,6 +149,7 @@ Collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ompatel22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
