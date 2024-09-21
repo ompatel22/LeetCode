@@ -20,6 +20,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/ompatel22/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -118,9 +119,14 @@ Collection of LeetCode questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ompatel22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
