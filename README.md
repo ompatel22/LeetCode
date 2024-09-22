@@ -7,6 +7,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompatel22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ompatel22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ompatel22/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompatel22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ompatel22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0525-contiguous-array](https://github.com/ompatel22/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompatel22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ompatel22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ompatel22/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ompatel22/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
