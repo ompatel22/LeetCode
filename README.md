@@ -159,6 +159,7 @@ Collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/ompatel22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0908-middle-of-the-linked-list](https://github.com/ompatel22/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,4 +183,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ompatel22/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ompatel22/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
