@@ -116,6 +116,7 @@ Collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Breadth-First Search
@@ -173,6 +174,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ompatel22/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ompatel22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Queue
