@@ -58,6 +58,7 @@ Collection of LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompatel22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ompatel22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ompatel22/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0525-contiguous-array](https://github.com/ompatel22/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Breadth-First Search
 |  |
@@ -161,6 +163,7 @@ Collection of LeetCode questions.
 | [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ompatel22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ompatel22/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
