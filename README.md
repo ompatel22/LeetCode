@@ -116,6 +116,7 @@ Collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ompatel22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -208,5 +209,6 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ompatel22/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ompatel22/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ompatel22/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
