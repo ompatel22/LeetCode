@@ -47,6 +47,7 @@ Collection of LeetCode questions.
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions.
 | [0525-contiguous-array](https://github.com/ompatel22/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions.
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
@@ -129,6 +132,7 @@ Collection of LeetCode questions.
 | [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,6 +205,7 @@ Collection of LeetCode questions.
 | [0424-longest-repeating-character-replacement](https://github.com/ompatel22/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ompatel22/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
