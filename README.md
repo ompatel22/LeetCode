@@ -53,6 +53,7 @@ Collection of LeetCode questions.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2227-sum-of-subarray-ranges](https://github.com/ompatel22/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Prefix Sum
@@ -135,6 +136,7 @@ Collection of LeetCode questions.
 | [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Breadth-First Search
 |  |
 | ------- |
