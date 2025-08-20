@@ -54,6 +54,7 @@ Collection of LeetCode questions.
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2227-sum-of-subarray-ranges](https://github.com/ompatel22/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions.
 | [0560-subarray-sum-equals-k](https://github.com/ompatel22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions.
 | [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ompatel22/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Queue
 |  |
 | ------- |
@@ -214,6 +217,7 @@ Collection of LeetCode questions.
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ompatel22/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
