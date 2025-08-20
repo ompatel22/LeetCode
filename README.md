@@ -49,6 +49,7 @@ Collection of LeetCode questions.
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions.
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Sorting
@@ -166,6 +168,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
