@@ -55,6 +55,7 @@ Collection of LeetCode questions.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ompatel22/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2227-sum-of-subarray-ranges](https://github.com/ompatel22/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions.
 | [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ompatel22/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
@@ -227,6 +229,7 @@ Collection of LeetCode questions.
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ompatel22/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ompatel22/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Heap (Priority Queue)
 |  |
