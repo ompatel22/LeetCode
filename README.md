@@ -63,6 +63,7 @@ Collection of LeetCode questions.
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ompatel22/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Prefix Sum
 |  |
 | ------- |
