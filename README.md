@@ -58,6 +58,7 @@ Collection of LeetCode questions.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ompatel22/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ompatel22/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2227-sum-of-subarray-ranges](https://github.com/ompatel22/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions.
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ompatel22/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ompatel22/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
@@ -175,6 +177,7 @@ Collection of LeetCode questions.
 | [0402-remove-k-digits](https://github.com/ompatel22/LeetCode/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1448-maximum-69-number](https://github.com/ompatel22/LeetCode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ompatel22/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Dynamic Programming
 |  |
 | ------- |
