@@ -195,6 +195,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ompatel22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ompatel22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,4 +269,12 @@ Collection of LeetCode questions.
 | [0402-remove-k-digits](https://github.com/ompatel22/LeetCode/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/ompatel22/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
