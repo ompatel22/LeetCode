@@ -8,6 +8,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ompatel22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ompatel22/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ompatel22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/ompatel22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ompatel22/LeetCode/tree/master/0402-remove-k-digits) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ompatel22/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ompatel22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ompatel22/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ompatel22/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -280,4 +282,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ompatel22/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
