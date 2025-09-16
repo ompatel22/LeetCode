@@ -151,6 +151,7 @@ Collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ompatel22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ompatel22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ompatel22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/ompatel22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ompatel22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
