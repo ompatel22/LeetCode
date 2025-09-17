@@ -154,6 +154,7 @@ Collection of LeetCode questions.
 | [0029-divide-two-integers](https://github.com/ompatel22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ompatel22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ompatel22/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ompatel22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ompatel22/LeetCode/tree/master/0202-happy-number) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ompatel22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ompatel22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ompatel22/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -288,4 +290,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ompatel22/LeetCode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ompatel22/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
