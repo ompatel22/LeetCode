@@ -71,6 +71,7 @@ Collection of LeetCode questions.
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ompatel22/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ompatel22/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/ompatel22/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
