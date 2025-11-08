@@ -16,6 +16,7 @@ Collection of LeetCode questions.
 | [1006-vowel-spellchecker](https://github.com/ompatel22/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ompatel22/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ompatel22/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ompatel22/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3797-design-spreadsheet](https://github.com/ompatel22/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions.
 | [1834-minimum-number-of-people-to-teach](https://github.com/ompatel22/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2227-sum-of-subarray-ranges](https://github.com/ompatel22/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ompatel22/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ompatel22/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ompatel22/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3797-design-spreadsheet](https://github.com/ompatel22/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
@@ -166,6 +169,7 @@ Collection of LeetCode questions.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ompatel22/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ompatel22/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ompatel22/LeetCode/tree/master/1448-maximum-69-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ompatel22/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ompatel22/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
