@@ -166,6 +166,7 @@ Collection of LeetCode questions.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ompatel22/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ompatel22/LeetCode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ompatel22/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode questions.
 | [0287-find-the-duplicate-number](https://github.com/ompatel22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ompatel22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ompatel22/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
