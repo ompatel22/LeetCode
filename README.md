@@ -56,6 +56,7 @@ Collection of LeetCode questions.
 | [0966-binary-subarrays-with-sum](https://github.com/ompatel22/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/ompatel22/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ompatel22/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ompatel22/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0029-divide-two-integers](https://github.com/ompatel22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/ompatel22/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ompatel22/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ompatel22/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ompatel22/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ompatel22/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
