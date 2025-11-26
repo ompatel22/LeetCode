@@ -38,6 +38,7 @@ Collection of LeetCode questions.
 | [0033-search-in-rotated-sorted-array](https://github.com/ompatel22/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ompatel22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/ompatel22/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ompatel22/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ompatel22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ompatel22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ompatel22/LeetCode/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/ompatel22/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ompatel22/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ompatel22/LeetCode/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ompatel22/LeetCode/tree/master/0921-spiral-matrix-iii) |
 ## Math
 |  |
