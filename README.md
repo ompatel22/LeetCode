@@ -70,6 +70,7 @@ Collection of LeetCode questions.
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ompatel22/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ompatel22/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ompatel22/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ompatel22/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ompatel22/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions.
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ompatel22/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ompatel22/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ompatel22/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3797-design-spreadsheet](https://github.com/ompatel22/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
@@ -208,6 +210,7 @@ Collection of LeetCode questions.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ompatel22/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ompatel22/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ompatel22/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
