@@ -77,6 +77,7 @@ Collection of LeetCode questions.
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ompatel22/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ompatel22/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ompatel22/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ompatel22/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/ompatel22/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions.
 | [0179-largest-number](https://github.com/ompatel22/LeetCode/tree/master/0179-largest-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ompatel22/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ompatel22/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Database
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Collection of LeetCode questions.
 | [0624-maximum-distance-in-arrays](https://github.com/ompatel22/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1448-maximum-69-number](https://github.com/ompatel22/LeetCode/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ompatel22/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ompatel22/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
 | ------- |
