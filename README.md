@@ -20,6 +20,7 @@ Collection of LeetCode questions.
 | [2483-minimum-penalty-for-a-shop](https://github.com/ompatel22/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/ompatel22/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ompatel22/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2833-furthest-point-from-origin](https://github.com/ompatel22/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3797-design-spreadsheet](https://github.com/ompatel22/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
@@ -324,4 +325,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ompatel22/LeetCode/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/ompatel22/LeetCode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
